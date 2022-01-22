@@ -1,0 +1,20 @@
+<script type="application/ld+json"> {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "headline": "En İyi Gözlük Camı Markaları [2022]",
+    "url":"https://iyibix.com/gozluk-cami-markalari",
+    "about": [
+    {"@type": "Thing", "name": "gözlük camı", "sameAs": "https://en.wikipedia.org/wiki/Crown_glass_(optics)" }
+    ],
+    "mentions": [
+    
+    {"@type": "Organization", "name": "Nikon", "sameAs": "https://tr.wikipedia.org/wiki/Nikon"},
+    {"@type": "Organization", "name": "Seiko", "sameAs": "https://tr.wikipedia.org/wiki/Seiko"},
+    {"@type": "Organization", "name": "Hoya Corporation", "sameAs": "https://tr.wikipedia.org/wiki/Hoya_Corporation"},
+    {"@type": "Organization", "name": "Zeiss", "sameAs": "https://tr.wikipedia.org/wiki/Carl_Zeiss_AG"},
+    {"@type": "Organization", "name": "Ray-Ban", "sameAs": "https://en.wikipedia.org/wiki/Ray-Ban"},
+    {"@type": "Organization", "name": "Essilor", "sameAs": "https://en.wikipedia.org/wiki/Essilor"},
+    {"@type": "Organization", "name": "Rodenstock", "sameAs": "https://en.wikipedia.org/wiki/Rodenstock_GmbH"},
+    {"@type": "Organization", "name": "Kodak", "sameAs": "https://tr.wikipedia.org/wiki/Kodak"}]
+    }
+    </script>

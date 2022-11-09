@@ -1,20 +1,24 @@
-<script type="application/ld+json"> {
+<script type="application/ld+json">
+{
     "@context": "http://schema.org",
     "@type": "WebPage",
-    "headline": "En İyi Gözlük Camı Markaları [2022]",
-    "url":"https://iyibix.com/gozluk-cami-markalari",
+    "headline": "Airfryer Tavsiyesi 2022 - En İyi Air Fryer (Yağsız Fritöz) Modelleri",
+    "url":"https://iyibix.com/en-iyi-airfryer-modelleri/",
+    "description": "En iyi airfryer modelini seçerken kafanızın karışması çok normal. Sizin için airfryer modellerini inceledik. Gelin birlikte karar verelim.",
     "about": [
-    {"@type": "Thing", "name": "gözlük camı", "sameAs": "https://en.wikipedia.org/wiki/Crown_glass_(optics)" }
+    {"@type": "Thing", "name": "Air Fryer", "sameAs": "https://en.wikipedia.org/wiki/Air_fryer" }
     ],
     "mentions": [
-    
-    {"@type": "Organization", "name": "Nikon", "sameAs": "https://tr.wikipedia.org/wiki/Nikon"},
-    {"@type": "Organization", "name": "Seiko", "sameAs": "https://tr.wikipedia.org/wiki/Seiko"},
-    {"@type": "Organization", "name": "Hoya Corporation", "sameAs": "https://tr.wikipedia.org/wiki/Hoya_Corporation"},
-    {"@type": "Organization", "name": "Zeiss", "sameAs": "https://tr.wikipedia.org/wiki/Carl_Zeiss_AG"},
-    {"@type": "Organization", "name": "Ray-Ban", "sameAs": "https://en.wikipedia.org/wiki/Ray-Ban"},
-    {"@type": "Organization", "name": "Essilor", "sameAs": "https://en.wikipedia.org/wiki/Essilor"},
-    {"@type": "Organization", "name": "Rodenstock", "sameAs": "https://en.wikipedia.org/wiki/Rodenstock_GmbH"},
-    {"@type": "Organization", "name": "Kodak", "sameAs": "https://tr.wikipedia.org/wiki/Kodak"}]
-    }
-    </script>
+    {"@type": "Organization", "name": "Philips", "sameAs": "https://tr.wikipedia.org/wiki/Philips"},
+    {"@type": "Organization", "name": "Xiaomi", "sameAs": "https://en.wikipedia.org/wiki/Xiaomi"}, 
+    {"@type": "Organization", "name": "Kumtel", "sameAs": "https://tr.wikipedia.org/wiki/Kumtel"},
+    {"@type": "Organization", "name": "Tefal", "sameAs": "https://tr.wikipedia.org/wiki/Tefal"},
+    {"@type": "Organization", "name": "Karaca", "sameAs": "https://www.instagram.com/karaca/"},
+    {"@type": "Organization", "name": "Grundig", "sameAs": "https://tr.wikipedia.org/wiki/Grundig"},
+    {"@type": "Organization", "name": "Yui", "sameAs": "https://www.yui.com.tr/"},
+    {"@type": "Thing", "name": "Patates", "sameAs": "https://tr.wikipedia.org/wiki/Patates"},
+    {"@type": "Thing", "name": "Kızartma", "sameAs": "https://tr.wikipedia.org/wiki/K%C4%B1zartma"},
+    {"@type": "Thing", "name": "Patates Kızartması", "sameAs": "https://tr.wikipedia.org/wiki/Patates_k%C4%B1zartmas%C4%B1"},
+    {"@type": "Thing", "name": "Fritöz", "sameAs": "https://en.wikipedia.org/wiki/Deep_fryer" }]
+}
+</script>

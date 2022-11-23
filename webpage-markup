@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "headline": "8 En İyi Kahve Makinesi 2022 - [Köpüklü Türk Kahve Makineleri]",
+    "url":"https://iyibix.com/en-iyi-kahve-makineleri/",
+    "description": "Alacağın Türk kahvesi makinesini seçerken kararsızsan, sizin için seçtiğimiz en iyi modellerle seçimini yapabilirsin.",
+    "about": [
+    {"@type": "Thing", "name": "Kahve Makinesi", "sameAs": "https://tr.wikipedia.org/wiki/Kahve_makinesi" }
+    ],
+    "mentions": [
+    {"@type": "Organization", "name": "Arzum", "sameAs": "https://tr.wikipedia.org/wiki/Arzum"},
+    {"@type": "Organization", "name": "Arçelik", "sameAs": "https://tr.wikipedia.org/wiki/Ar%C3%A7elik"}, 
+    {"@type": "Organization", "name": "Karaca", "sameAs": "https://www.karaca-home.com/"},
+    {"@type": "Organization", "name": "Tefal", "sameAs": "https://en.wikipedia.org/wiki/Tefal"},
+    {"@type": "Organization", "name": "Fakir Ev Aletleri", "sameAs": "https://tr.wikipedia.org/wiki/Fakir_Ev_Aletleri"},
+    {"@type": "Organization", "name": "Schafer", "sameAs": "https://www.schafer.com.tr/"},
+    {"@type": "Organization", "name": "Bosch", "sameAs": "https://en.wikipedia.org/wiki/Robert_Bosch_GmbH"},
+    {"@type": "Organization", "name": "Korkmaz mutfak eşyaları", "sameAs": "https://tr.wikipedia.org/wiki/Korkmaz_mutfak_e%C5%9Fyalar%C4%B1"},
+    {"@type": "Organization", "name": "Tchibo", "sameAs": "https://en.wikipedia.org/wiki/Tchibo"},
+    {"@type": "Organization", "name": "Beko", "sameAs": "https://en.wikipedia.org/wiki/Beko"},
+    {"@type": "Organization", "name": "Homend", "sameAs": "https://www.homend.com.tr/"},
+    {"@type": "Organization", "name": "Sinbo", "sameAs": "http://www.sinbo.com.tr/sinbo-hakkinda"},
+    {"@type": "Thing", "name": "Türk Kahvesi", "sameAs": "https://en.wikipedia.org/wiki/Turkish_coffee"},
+    {"@type": "Thing", "name": "Kahve", "sameAs": "https://en.wikipedia.org/wiki/Coffee"},
+    {"@type": "Thing", "name": "Kahve Yapma Makinesi", "sameAs": "https://en.wikipedia.org/wiki/Coffeemaker"},
+    {"@type": "Thing", "name": "Ev Aletleri", "sameAs": "https://tr.wikipedia.org/wiki/Kategori:Ev_aletleri"},
+    {"@type": "Thing", "name": "Köpük", "sameAs": "https://tr.wikipedia.org/wiki/K%C3%B6p%C3%BCk"},
+    {"@type": "Thing", "name": "Telve", "sameAs": "https://tr.wiktionary.org/wiki/telve"},
+    {"@type": "Thing", "name": "Kahve Fincanı", "sameAs": "https://tr.wikipedia.org/wiki/Kahve_fincan%C4%B1"},
+    {"@type": "Thing", "name": "Cezve", "sameAs": "https://en.wikipedia.org/wiki/Cezve" }]
+}
+</script>
